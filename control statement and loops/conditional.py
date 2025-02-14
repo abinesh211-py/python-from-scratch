@@ -4,4 +4,4 @@ if credit == "good" :
     downPayment = 0.1 * price
 else:
     downPayment = 0.2 * price
-print(f"The Downpayment of {credit} is {downPayment}")
+print(f"The Downpayment of {credit} is Rs.{downPayment}")
